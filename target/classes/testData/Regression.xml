@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Regression">
+
+		<test name="ListItemsTest">
+			<parameter name="categoryName" value="Vir232323" />
+			<parameter name="duplicateCategoryName" value="Vir2323" />
+			<classes>
+				<class name="test.ListItemsTest" />
+			</classes>
+		</test>
+</suite>

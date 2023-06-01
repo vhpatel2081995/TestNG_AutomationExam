@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13964" started-at="2023-05-31T16:04:02 EDT" finished-at="2023-05-31T16:04:16 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13964" started-at="2023-05-31T16:04:02 EDT" finished-at="2023-05-31T16:04:16 EDT">
+      <class name="test.ListItemsTest">
+        <test-method status="PASS" signature="initDriver()[pri:0, instance:test.ListItemsTest@76f2b07d]" name="initDriver" is-config="true" duration-ms="2816" started-at="2023-05-31T16:04:02 EDT" finished-at="2023-05-31T16:04:05 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initDriver -->
+        <test-method status="PASS" signature="validateAddCategoryItemIsVisibleOrNot(java.lang.String)[pri:1, instance:test.ListItemsTest@76f2b07d]" name="validateAddCategoryItemIsVisibleOrNot" duration-ms="661" started-at="2023-05-31T16:04:05 EDT" finished-at="2023-05-31T16:04:06 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Vir232323]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAddCategoryItemIsVisibleOrNot -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.ListItemsTest@76f2b07d]" name="tearDown" is-config="true" duration-ms="689" started-at="2023-05-31T16:04:06 EDT" finished-at="2023-05-31T16:04:07 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="initDriver()[pri:0, instance:test.ListItemsTest@76f2b07d]" name="initDriver" is-config="true" duration-ms="2018" started-at="2023-05-31T16:04:07 EDT" finished-at="2023-05-31T16:04:09 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initDriver -->
+        <test-method status="PASS" signature="validateCategoryCannotBeDuplicated(java.lang.String)[pri:2, instance:test.ListItemsTest@76f2b07d]" name="validateCategoryCannotBeDuplicated" duration-ms="3410" started-at="2023-05-31T16:04:09 EDT" finished-at="2023-05-31T16:04:12 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Vir2323]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCategoryCannotBeDuplicated -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.ListItemsTest@76f2b07d]" name="tearDown" is-config="true" duration-ms="729" started-at="2023-05-31T16:04:12 EDT" finished-at="2023-05-31T16:04:13 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="initDriver()[pri:0, instance:test.ListItemsTest@76f2b07d]" name="initDriver" is-config="true" duration-ms="2152" started-at="2023-05-31T16:04:13 EDT" finished-at="2023-05-31T16:04:15 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initDriver -->
+        <test-method status="PASS" signature="validateMonthDropDownOptions()[pri:3, instance:test.ListItemsTest@76f2b07d]" name="validateMonthDropDownOptions" duration-ms="715" started-at="2023-05-31T16:04:15 EDT" finished-at="2023-05-31T16:04:16 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMonthDropDownOptions -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.ListItemsTest@76f2b07d]" name="tearDown" is-config="true" duration-ms="727" started-at="2023-05-31T16:04:16 EDT" finished-at="2023-05-31T16:04:16 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.ListItemsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
